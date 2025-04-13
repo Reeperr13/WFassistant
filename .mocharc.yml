@@ -1,3 +1,0 @@
-slow: 10000
-spec: test/**/*.spec.mjs
-timeout: 10000
