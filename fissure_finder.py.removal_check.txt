@@ -1,0 +1,6 @@
+fissure_finder.py can be safely removed if:
+- All fissure data is now handled by fissures.py and loaded via the database in wfmain.py
+- No other scripts or modules import or use fissure_finder.py
+- You do not need any custom logic or features from fissure_finder.py that are not present in fissures.py
+
+If you want to confirm, search the codebase for any imports or references to fissure_finder.py.
