@@ -1,0 +1,390 @@
+[
+  {
+    "id": "68d8d96efc518d2cb989b03e",
+    "activation": "2025-09-29T02:49:46.117Z",
+    "node": "Proteus (Neptune)",
+    "nodeKey": "Proteus (Neptune)",
+    "desc": "Grineer Offensive",
+    "attacker": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 1,
+            "type": "Sheev Hilt",
+            "key": "Sheev Hilt"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "",
+        "color": 5198940
+      },
+      "faction": "Grineer",
+      "factionKey": "Grineer"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 1,
+            "type": "Snipetron Vandal Blueprint",
+            "key": "Snipetron Vandal Blueprint"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/dera-vandal.png",
+        "color": 6052435
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": false,
+    "count": -31036,
+    "requiredRuns": 31000,
+    "completion": -0.05806451612903052,
+    "completed": true,
+    "rewardTypes": [
+      "other",
+      "vandal"
+    ]
+  },
+  {
+    "id": "68dac21afd1e83478a89b03e",
+    "activation": "2025-09-30T11:12:45.139Z",
+    "node": "Kappa (Sedna)",
+    "nodeKey": "Kappa (Sedna)",
+    "desc": "Corpus Siege",
+    "attacker": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 1,
+            "type": "Dera Vandal Barrel",
+            "key": "Dera Vandal Barrel"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/dera-vandal.png",
+        "color": 6052435
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 1,
+            "type": "Wraith Twin Vipers Receiver",
+            "key": "Wraith Twin Vipers Receiver"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/furax-wraith.png",
+        "color": 6052435
+      },
+      "faction": "Grineer",
+      "factionKey": "Grineer"
+    },
+    "vsInfestation": false,
+    "count": -25612,
+    "requiredRuns": 40000,
+    "completion": 17.985,
+    "completed": false,
+    "rewardTypes": [
+      "vandal",
+      "wraith"
+    ]
+  },
+  {
+    "id": "68dc35967e1f0d6c0c89b03e",
+    "activation": "2025-09-30T19:55:02.156Z",
+    "node": "Tethys (Saturn)",
+    "nodeKey": "Tethys (Saturn)",
+    "desc": "Phorid Manifestation",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 1,
+            "type": "Mutagen Mass",
+            "key": "Mutagen Mass"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/mutagen-mass.png",
+        "color": 5068118
+      },
+      "faction": "Grineer",
+      "factionKey": "Grineer"
+    },
+    "vsInfestation": true,
+    "count": -26673,
+    "requiredRuns": 30000,
+    "completion": 11.09,
+    "completed": false,
+    "rewardTypes": [
+      "mutagen"
+    ]
+  },
+  {
+    "id": "68dc5c42d0c3e1b07389b03e",
+    "activation": "2025-09-30T22:40:02.258Z",
+    "node": "Hades (Pluto)",
+    "nodeKey": "Hades (Pluto)",
+    "desc": "Phorid Manifestation",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 1,
+            "type": "Mutalist Alad V Nav Coordinate",
+            "key": "Mutalist Alad V Nav Coordinate"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/mutalist-alad-v-nav-coordinate.png",
+        "color": 158519
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": true,
+    "count": -14113,
+    "requiredRuns": 30000,
+    "completion": 52.95666666666668,
+    "completed": false,
+    "rewardTypes": [
+      "mutalist"
+    ]
+  },
+  {
+    "id": "68dc7286330e0c875b89b03e",
+    "activation": "2025-10-01T00:15:02.442Z",
+    "node": "Cypress (Pluto)",
+    "nodeKey": "Cypress (Pluto)",
+    "desc": "Infested Outbreak",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 2,
+            "type": "Mutagen Mass",
+            "key": "Mutagen Mass"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/mutagen-mass.png",
+        "color": 5068118
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": true,
+    "count": -30279,
+    "requiredRuns": 30000,
+    "completion": -0.9300000000000086,
+    "completed": true,
+    "rewardTypes": [
+      "mutagen"
+    ]
+  },
+  {
+    "id": "68dc89f694bf1167f289b03e",
+    "activation": "2025-10-01T01:55:01.927Z",
+    "node": "Narcissus (Pluto)",
+    "nodeKey": "Narcissus (Pluto)",
+    "desc": "Infested Outbreak",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 3,
+            "type": "Fieldron",
+            "key": "Fieldron"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/fieldron.png",
+        "color": 5068118
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": true,
+    "count": -43875,
+    "requiredRuns": 43000,
+    "completion": -2.034883720930236,
+    "completed": true,
+    "rewardTypes": [
+      "fieldron"
+    ]
+  },
+  {
+    "id": "68dcae4a47bc2ede6089b03e",
+    "activation": "2025-10-01T04:30:02.039Z",
+    "node": "Hydra (Pluto)",
+    "nodeKey": "Hydra (Pluto)",
+    "desc": "Infested Outbreak",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 3,
+            "type": "Fieldron",
+            "key": "Fieldron"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/fieldron.png",
+        "color": 5068118
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": true,
+    "count": -47330,
+    "requiredRuns": 47000,
+    "completion": -0.7021276595744697,
+    "completed": true,
+    "rewardTypes": [
+      "fieldron"
+    ]
+  },
+  {
+    "id": "68dcae4a47bc2ede6089b03f",
+    "activation": "2025-10-01T04:30:02.039Z",
+    "node": "Outer Terminus (Pluto)",
+    "nodeKey": "Outer Terminus (Pluto)",
+    "desc": "Infested Outbreak",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 2,
+            "type": "Mutagen Mass",
+            "key": "Mutagen Mass"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/mutagen-mass.png",
+        "color": 5068118
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": true,
+    "count": -44344,
+    "requiredRuns": 44000,
+    "completion": -0.7818181818181724,
+    "completed": true,
+    "rewardTypes": [
+      "mutagen"
+    ]
+  },
+  {
+    "id": "68dcbeb2edc5c1979689b03e",
+    "activation": "2025-10-01T05:40:01.750Z",
+    "node": "Oceanum (Pluto)",
+    "nodeKey": "Oceanum (Pluto)",
+    "desc": "Infested Outbreak",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 3,
+            "type": "Fieldron",
+            "key": "Fieldron"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/fieldron.png",
+        "color": 5068118
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": true,
+    "count": -35054,
+    "requiredRuns": 35000,
+    "completion": -0.1542857142857068,
+    "completed": true,
+    "rewardTypes": [
+      "fieldron"
+    ]
+  },
+  {
+    "id": "68dce68a9ce0f8dd5a89b03e",
+    "activation": "2025-10-01T08:30:02.274Z",
+    "node": "Regna (Pluto)",
+    "nodeKey": "Regna (Pluto)",
+    "desc": "Infested Outbreak",
+    "attacker": {
+      "faction": "Infested",
+      "factionKey": "Infested"
+    },
+    "defender": {
+      "reward": {
+        "items": [],
+        "countedItems": [
+          {
+            "count": 2,
+            "type": "Mutagen Mass",
+            "key": "Mutagen Mass"
+          }
+        ],
+        "credits": 0,
+        "thumbnail": "https://cdn.warframestat.us/img/mutagen-mass.png",
+        "color": 5068118
+      },
+      "faction": "Corpus",
+      "factionKey": "Corpus"
+    },
+    "vsInfestation": true,
+    "count": -46063,
+    "requiredRuns": 46000,
+    "completion": -0.13695652173912887,
+    "completed": true,
+    "rewardTypes": [
+      "mutagen"
+    ]
+  }
+]

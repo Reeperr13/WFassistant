@@ -1,0 +1,36 @@
+{
+  "id": "68dd4c7ec1e81b2c4889b03e",
+  "activation": "2025-10-01T16:00:00.000Z",
+  "expiry": "2025-10-02T16:00:00.000Z",
+  "rewardPool": "Sortie Rewards",
+  "variants": [
+    {
+      "missionType": "移動防禦",
+      "missionTypeKey": "Mobile Defense",
+      "modifier": "辐射灾害",
+      "modifierDescription": "任何收到的伤害以及版图中的绿云都将触发辐射效果。",
+      "node": "Plato (月球)",
+      "nodeKey": "Plato (Lua)"
+    },
+    {
+      "missionType": "破壞",
+      "missionTypeKey": "Sabotage",
+      "modifier": "武器限定：近戰",
+      "modifierDescription": "此任務中只能使用近戰武器，其他類型的武器將會自動被換掉",
+      "node": "Odin (水星)",
+      "nodeKey": "Odin (Mercury)"
+    },
+    {
+      "missionType": "刺殺",
+      "missionTypeKey": "Assassination",
+      "modifier": "敌人元素强化(火焰)",
+      "modifierDescription": "敌人造成更高的火焰伤害，并对火焰伤害具有更高的抗性",
+      "node": "Titania (天王星)",
+      "nodeKey": "Titania (Uranus)"
+    }
+  ],
+  "missions": [],
+  "boss": "Tyl Regor",
+  "faction": "Grineer",
+  "factionKey": "Grineer"
+}

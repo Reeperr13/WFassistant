@@ -1,0 +1,116 @@
+[
+  {
+    "id": "68dc23c42e9d3acfa708ff3b",
+    "activation": "2025-10-01T14:00:00.000Z",
+    "expiry": "2025-10-31T18:00:00.000Z",
+    "mission": {
+      "description": "Tenno United Alert",
+      "node": "V Prime (金星)",
+      "nodeKey": "V Prime (Venus)",
+      "type": "生存",
+      "typeKey": "Survival",
+      "faction": "Corpus",
+      "factionKey": "Corpus",
+      "reward": {
+        "items": [
+          "Conquera Kuaka Floof"
+        ],
+        "countedItems": [],
+        "credits": 10000,
+        "thumbnail": "",
+        "color": 5198940
+      },
+      "minEnemyLevel": 20,
+      "maxEnemyLevel": 30,
+      "maxWaveNum": 5,
+      "nightmare": false,
+      "archwingRequired": false,
+      "isSharkwing": false,
+      "levelOverride": "Corpus Ship Survival Raid",
+      "enemySpec": "Corpus Ship Survival A",
+      "advancedSpawners": [],
+      "requiredItems": [],
+      "levelAuras": []
+    },
+    "rewardTypes": [
+      "other"
+    ],
+    "tag": "LotusGift"
+  },
+  {
+    "id": "68dc2466e298b4f04206687a",
+    "activation": "2025-10-01T14:00:00.000Z",
+    "expiry": "2025-10-31T18:00:00.000Z",
+    "mission": {
+      "description": "Tenno United Alert",
+      "node": "Casta (穀神星)",
+      "nodeKey": "Casta (Ceres)",
+      "type": "防禦",
+      "typeKey": "Defense",
+      "faction": "Grineer",
+      "factionKey": "Grineer",
+      "reward": {
+        "items": [
+          "Plushy2022 Q T C C"
+        ],
+        "countedItems": [],
+        "credits": 10000,
+        "thumbnail": "",
+        "color": 5198940
+      },
+      "minEnemyLevel": 20,
+      "maxEnemyLevel": 30,
+      "maxWaveNum": 3,
+      "nightmare": false,
+      "archwingRequired": false,
+      "isSharkwing": false,
+      "levelOverride": "Grineer Shipyards Defense",
+      "enemySpec": "Grineer Shipyards Defense A",
+      "advancedSpawners": [],
+      "requiredItems": [],
+      "levelAuras": []
+    },
+    "rewardTypes": [
+      "other"
+    ],
+    "tag": "LotusGift"
+  },
+  {
+    "id": "68dc26865e7cb56b820b4252",
+    "activation": "2025-10-01T14:00:00.000Z",
+    "expiry": "2025-10-31T18:00:00.000Z",
+    "mission": {
+      "description": "Tenno United Alert",
+      "node": "Everest (地球)",
+      "nodeKey": "Everest (Earth)",
+      "type": "挖掘",
+      "typeKey": "Excavation",
+      "faction": "Grineer",
+      "factionKey": "Grineer",
+      "reward": {
+        "items": [
+          "Plushy Virmink Q T C C"
+        ],
+        "countedItems": [],
+        "credits": 10000,
+        "thumbnail": "",
+        "color": 5198940
+      },
+      "minEnemyLevel": 20,
+      "maxEnemyLevel": 30,
+      "maxWaveNum": 5,
+      "nightmare": false,
+      "archwingRequired": false,
+      "isSharkwing": false,
+      "levelOverride": "Grineer Forest Excavation",
+      "enemySpec": "Forest Grineer Excavation A",
+      "advancedSpawners": [],
+      "requiredItems": [],
+      "levelAuras": []
+    },
+    "rewardTypes": [
+      "other"
+    ],
+    "tag": "LotusGift"
+  }
+]

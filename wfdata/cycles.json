@@ -1,0 +1,41 @@
+{
+  "earthCycle": {
+    "id": "earthCycle1759348800000",
+    "activation": "2025-10-01T16:00:00.104Z",
+    "expiry": "2025-10-01T20:00:00.104Z",
+    "isDay": true,
+    "state": "day",
+    "timeLeft": "2h 56m 10s"
+  },
+  "cetusCycle": {
+    "id": "cetusCycle1759341660000",
+    "activation": "2025-10-01T16:21:00.000Z",
+    "expiry": "2025-10-01T18:01:00.000Z",
+    "isDay": true,
+    "state": "day",
+    "timeLeft": "57m 11s",
+    "isCetus": true
+  },
+  "vallisCycle": {
+    "id": "vallisCycle1759338000000",
+    "activation": "2025-10-01T17:00:00.000Z",
+    "expiry": "2025-10-01T17:20:00.000Z",
+    "isWarm": false,
+    "state": "cold"
+  },
+  "zarimanCycle": {
+    "id": "zarimanCycle1759344660000",
+    "activation": "2025-10-01T16:21:00.000Z",
+    "expiry": "2025-10-01T18:51:00.000Z",
+    "isCorpus": false,
+    "state": "grineer",
+    "timeLeft": "1h 47m 5s"
+  },
+  "cambionCycle": {
+    "id": "cambionCycle1759341660000",
+    "activation": "2025-10-01T16:21:00.000Z",
+    "expiry": "2025-10-01T18:01:00.000Z",
+    "timeLeft": "57m 11s",
+    "state": "fass"
+  }
+}
